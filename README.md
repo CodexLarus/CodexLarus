@@ -41,6 +41,6 @@ En plein apprentissage de **Python**, j'ai pour projet de développer une applic
 ---
 
 ## Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/simon-brouard-69414a36a/)  
-- 📧 brouard.simon@gmail.com  
-- 🐙 [Mon GitHub](https://github.com/TheBretonDuke)  
+- [LinkedIn](https://www.linkedin.com/in/simon-brouard-69414a36a/)  
+- brouard.simon@gmail.com  
+- [Mon GitHub](https://github.com/TheBretonDuke)  
