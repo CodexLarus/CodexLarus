@@ -1,8 +1,7 @@
 # Bonjour, je suis Simon (alias *Codex Larus*)
 
 Étudiant en **Développement IA** à l’**ISEN Brest**, parcours Simplon.  
-De retour en Bretagne après 5 ans au Japon, je suis en reconversion professionnelle en développement **IA appliquée**.  
-En plein apprentissage de **Python**, j'ai pour projet de développer une application de **cartographie intelligente** open source.  
+En Alternance à l'**ADEUPa** à **Brest**. 
 
 ---
 
