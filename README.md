@@ -1,7 +1,7 @@
-# Bonjour, je suis Simon (alias *Codex Larus*)
+# Bonjour, je suis Simon (alias Codex Larus)
 
-Étudiant en **Développement IA** à l’**ISEN Brest**, parcours Simplon.  
-En Alternance à l'**ADEUPa** à **Brest**. 
+Étudiant en **Développement IA** à l’**ISEN Brest** (parcours Simplon),  
+et en alternance à l’**ADEUPa**, à **Brest**.
 
 ---
 
@@ -26,20 +26,24 @@ En Alternance à l'**ADEUPa** à **Brest**.
 ---
 
 ## Projets phares
-- **Carto Brest** : application locale de génération cartographique à partir de snapshots OSM (Python + Folium + SQLite).  
-- **Clickdom** : jeu de stratégie en grille développé en Python/Pygame, avec IA basique et prototype multijoueur.  
-- **RPG Bretagne médiévale** : projet narratif procédural en Python (IA + génération procédurale).  
+
+- **RPG Bretagne médiévale** : projet narratif procédural en Python, mêlant IA et génération procédurale.
+- **The Marches of The Dead** : jeu en développement sous Godot, avec focus sur le gameplay, les systèmes d’IA et le polish technique. Sprites perso et créés entièrement sur Aseprite.
+- **Carto Brest** : application locale de génération cartographique à partir de snapshots OSM (Python, Folium, SQLite).
 
 ---
 
 ## Objectifs actuels
-- Approfondir mes compétences en **IA appliquée** et en **ingénierie logicielle**.  
-- Développer des projets concrets alliant **technique** et **créativité**, car plus c'est fun plus vite on apprend !  
-- Contribuer à l’open source et partager mes apprentissages.  
+
+- Approfondir mes compétences en **IA appliquée** et en **ingénierie logicielle**.
+- Concevoir des projets concrets qui allient **technique** et **créativité**.
+- Contribuer à l’open source et partager mes apprentissages.
 
 ---
 
 ## Me contacter
-- [LinkedIn](https://www.linkedin.com/in/simon-brouard-69414a36a/)  
-- brouard.simon@gmail.com  
-- [Mon GitHub](https://github.com/TheBretonDuke)  
+
+- [LinkedIn](https://www.linkedin.com/in/simon-brouard-69414a36a/)
+- brouard.simon@gmail.com
+- [Mon GitHub](https://github.com/TheBretonDuke)
+
