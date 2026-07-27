@@ -27,19 +27,10 @@ et en alternance à l’**ADEUPa**, à **Brest**.
 
 ---
 
-## Projets phares
+## Projets actuels
 
-- **Carto Brest** : application locale de génération cartographique à partir de snapshots OSM (Python, Folium, SQLite).
-- **RPG Bretagne médiévale** : projet narratif procédural en Python, mêlant IA et génération procédurale.
-- **The Marches of The Dead** : jeu en développement sous Godot, avec focus sur le gameplay, les systèmes d’IA et le polish technique ; assets 2D entièrement réalisés à la main sous Aseprite.
-
----
-
-## Objectifs actuels
-
-- Approfondir mes compétences en **IA appliquée** et en **ingénierie logicielle**.
-- Concevoir des projets concrets qui allient **technique** et **créativité**.
-- Contribuer à l’open source et partager mes apprentissages.
+- Jeu actuellement en développement sous Godot, avec focus sur le gameplay, les systèmes d’IA et le polish technique ; assets 2D entièrement réalisés à la main sous Aseprite.
+- Divers projets professionnels (RAG, collecte et visualisation des données WAZE dans le cadre CPP, au service des collectivités territoriales...)
 
 ---
 
